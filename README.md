@@ -1,2 +1,2 @@
 # Firstlesson
-My first lesson on git
+My first lesson on gi. Hellow everyone
